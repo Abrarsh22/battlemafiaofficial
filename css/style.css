@@ -1546,22 +1546,5 @@ header{
  .copyright a:hover {
      color: rgb(128, 252, 253,.9);
 }
-/** end footer **/
-
-/** video section **/
-.video{
-      margin-top: 70px;
-     padding-top: 20px;
-}
- .video .about-box {
-    text-align: center;
-}
-.video .about-box p {
-     font-size: 17px;
-     line-height: 28px;
-     color: #000;
-     padding-top: 5px;
-     letter-spacing: .5px;
-}
 
 /*--------------------------------------------------------------------- ener page css ---------------------------------------------------------------------*/
