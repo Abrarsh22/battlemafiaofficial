@@ -1270,6 +1270,22 @@
 }
 
 /** end about section **/
+.video{
+     margin-top: 80px;
+}
+.video .about-box{
+     margin-top: 40px;
+     text-align: center;
+}
+video{
+     height: 600px;
+}
+@media-screen(max-width: 765px){
+video{
+     width:250px;
+     height: 250px
+}
+}
 /** contact section **/
  .contact {
      padding-top: 90px;
